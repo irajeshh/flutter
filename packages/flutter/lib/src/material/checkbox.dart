@@ -884,7 +884,7 @@ class _CheckboxDefaultsM2 extends CheckboxThemeData {
 
   @override
   OutlinedBorder get shape => const RoundedRectangleBorder(
-    borderRadius: BorderRadius.all(Radius.circular(1.0)),
+    borderRadius: BorderRadius.all(Radius.circular(3.0)),
   );
 }
 
@@ -1019,7 +1019,7 @@ class _CheckboxDefaultsM3 extends CheckboxThemeData {
 
   @override
   OutlinedBorder get shape => const RoundedRectangleBorder(
-    borderRadius: BorderRadius.all(Radius.circular(2.0)),
+    borderRadius: BorderRadius.all(Radius.circular(3.0)),
   );
 }
 
